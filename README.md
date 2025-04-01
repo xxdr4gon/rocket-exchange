@@ -5,11 +5,12 @@ What it will do:
 - Include custom variables for sync rerun interval, amount of users to sync;
 - Run on potatoes, glue and spit;
 - Change Rocket.Chat status and description depending on the event in Exchange;
-- Use Pexip Event Sinks to relay ad-hoc meetings (not in calendar) happening in on-prem Infinity.
 
 What it won't do:
 - Clean your room
 - Make world peace happen
+- Respect all-day events
+- Use Pexip Event Sinks to relay ad-hoc meetings (not in calendar) happening in on-prem Infinity
 
 Requirements:
 - 2 vCPU and 2GB RAM
