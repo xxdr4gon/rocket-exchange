@@ -7,7 +7,7 @@ This script:
 2. Retrieves all users from RocketChat (excluding those with msteams.alias suffix)
 3. Checks each user's current calendar status in Exchange asynchronously
 4. Respects manually set statuses in RocketChat
-5. Supports Pexip call status integration
+5. Supports Pexip call status integration (in the future!!!)
 6. Updates RocketChat status based on priority of status sources
 
 Requirements:
