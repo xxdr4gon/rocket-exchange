@@ -7,6 +7,7 @@ What it will do:
 - Change Rocket.Chat status and description depending on the event in Exchange;
 
 What it won't do:
+- Respect default statuses
 - Clean your room
 - Make world peace happen
 - Respect all-day events
